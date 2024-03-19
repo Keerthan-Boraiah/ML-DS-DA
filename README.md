@@ -4,3 +4,6 @@ This repository contains a few of my real-world Statistical Models/ Data Analyti
 NOTE
 ---------------------------------
 Look for the projects in their individual branches.
+
+---------------------------------
+CLTV is one of my most successfully implemented solutions which is widely used in the industry. 
